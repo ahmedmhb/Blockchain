@@ -1,0 +1,35 @@
+# Flutter 
+/.dart_tool/ 
+/.packages 
+.flutter-plugins 
+.flutter-plugins-dependencies 
+/.idea/ 
+/build/ 
+*.iml 
+*.iws 
+*.ipr 
+*.swp 
+*.log 
+.metadata 
+.DS_Store 
+Thumbs.db 
+ECHO is on.
+# Flutter Web 
+/.lib/ 
+/web/ 
+ECHO is on.
+# Node.js 
+/node_modules/ 
+npm-debug.log 
+yarn-debug.log 
+yarn-error.log 
+ECHO is on.
+# Blockchain/TP specific 
+/src/artifacts/ 
+/.cache/ 
+ECHO is on.
+/android/ 
+/ios/ 
+/windows/ 
+/linux/ 
+/macos/ 
